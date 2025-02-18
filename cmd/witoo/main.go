@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/iwpnd/witoo"
+	"github.com/iwpnd/witoo/v2"
 )
 
 func main() {

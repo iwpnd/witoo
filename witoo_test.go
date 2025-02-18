@@ -3,7 +3,7 @@ package witoo_test
 import (
 	"testing"
 
-	"github.com/iwpnd/witoo"
+	"github.com/iwpnd/witoo/v2"
 	"github.com/stretchr/testify/assert"
 )
 

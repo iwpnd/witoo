@@ -1,4 +1,4 @@
-module github.com/iwpnd/witoo
+module github.com/iwpnd/witoo/v2
 
 go 1.23.4
 
