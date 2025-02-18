@@ -2,9 +2,9 @@ package witoo
 
 import "fmt"
 
-func SayHiTo(name string) (string, error) {
+func SayHiTo(name string) string {
 	if name == "" {
-		return "", fmt.Errorf("name cannot be empty")
+		return ""
 	}
-	return fmt.Sprintf("Hi, %s", name), nil
+	return fmt.Sprintf("Hi, %s", name)
 }
